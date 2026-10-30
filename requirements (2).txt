@@ -1,0 +1,2 @@
+# El proyecto usa principalmente la biblioteca estándar de Python.
+# No requiere instalar paquetes externos para la versión SQLite inicial.
